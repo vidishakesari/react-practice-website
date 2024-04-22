@@ -22,7 +22,7 @@ const goToPokemonPage =() => {
         <h1>Hii this is about page.</h1>
                  
                  <h4>WelCome To {info}{info1}</h4>
-          <p>The {info} hook is one of the several hooks in React router. It has been available in React router since version 5. You can use it to retrieve route parameters from the component rendered by the matching route.</p>
+          <p>The {info} hook is one of the several {info} hooks in React router. It has been available in React router since version 5. You can use it to retrieve route parameters from the component rendered by the matching route.</p>
                
                
     
